@@ -49,7 +49,7 @@
 - Kanishak todwal 'Full stack developer', Intern at Cepialabs
 - Shishank soni`MERN Stack+ Python + 'DSA`, Programmer Analyst intern at CepiaLabs
 - Pragati Bhardwaj ,`MERN STACK + DATA ANALYST`, Programmer Analyst intern at CepiaLabs
-- Prashant Gupta, `MERN Stack+ Data Analyst + 'DSA`, Programmer Analyst intern at CepiaLabs
+- Prashant Gupta, `MERN Stack+ Data    Analyst + 'DSA`, Programmer Analyst intern at CepiaLabs
 - Hrushikesh Nandi, `Python + Django`, Programmer Analyst Intern at CepiaLabs.,
 - Gaurav Pandey `'Full stack developer'`, Intern at Cepialabs
 - Hrushikesh Nandi, `Python + Django`, Programmer Analyst Intern at CepiaLabs.
@@ -93,3 +93,5 @@
 -Saumya Awasthi,'Html'+'Css'+'Java Script' Front End Developer
 
 # Introduction to new batch 27-Dec-2025
+
+- Vitthal Dhanve , Programmer Analyst Intern 
